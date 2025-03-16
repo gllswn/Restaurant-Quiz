@@ -7,7 +7,7 @@
 
 <body>
     <spanPurple><h3>Hallo Stephan</h3></spanPurple>
-        <div>Wie versprochen schicke schicke ich dir den Link vom Restaurant in Bern, wovon ich dir erzählt habe. 
+        <div>Wie versprochen schicke ich dir den Link vom Restaurant in Bern, wovon ich dir erzählt habe. 
             <br> <br> Jetzt ist es nur leider so, dass ich mir Visual Studio heruntergeladen habe und ein bisschen mit HTML herumspiele.
             <br> Daher kann ich dir den Namen des Restaurants nicht einfach verraten, sondern du musst zuerst das folgende Rätsel richtig lösen.
 
