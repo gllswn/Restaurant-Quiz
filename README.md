@@ -2,7 +2,6 @@
 <lang="en">
 <head>
     <meta charset="utf-8">
-    </spanPurple><title>Test</title>
 </head>
 
 <body>
